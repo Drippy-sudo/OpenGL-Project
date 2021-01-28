@@ -1,0 +1,16 @@
+﻿  Game.cpp
+C:\Users\Derpy\Desktop\OpenGL Project\OpenGL-P1\Youtube_Tutorial_Engine\Youtube_Tutorial_Engine\Texture.h(26,10): warning C4101: 'texture0': unreferenced local variable
+C:\Users\Derpy\Desktop\OpenGL Project\OpenGL-P1\Youtube_Tutorial_Engine\Youtube_Tutorial_Engine\Texture.h(78,10): warning C4101: 'texture0': unreferenced local variable
+  main.cpp
+C:\Users\Derpy\Desktop\OpenGL Project\OpenGL-P1\Youtube_Tutorial_Engine\Youtube_Tutorial_Engine\Texture.h(26,10): warning C4101: 'texture0': unreferenced local variable
+C:\Users\Derpy\Desktop\OpenGL Project\OpenGL-P1\Youtube_Tutorial_Engine\Youtube_Tutorial_Engine\Texture.h(78,10): warning C4101: 'texture0': unreferenced local variable
+  Model.cpp
+C:\Users\Derpy\Desktop\OpenGL Project\OpenGL-P1\Youtube_Tutorial_Engine\Youtube_Tutorial_Engine\Texture.h(26,10): warning C4101: 'texture0': unreferenced local variable
+C:\Users\Derpy\Desktop\OpenGL Project\OpenGL-P1\Youtube_Tutorial_Engine\Youtube_Tutorial_Engine\Texture.h(78,10): warning C4101: 'texture0': unreferenced local variable
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'C:\Users\Derpy\Desktop\OpenGL Project\OpenGL-P1\Youtube_Tutorial_Engine\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'C:\Users\Derpy\Desktop\OpenGL Project\OpenGL-P1\Youtube_Tutorial_Engine\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(wfETC.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(wfETC.obj)' or at 'C:\Users\Derpy\Desktop\OpenGL Project\OpenGL-P1\Youtube_Tutorial_Engine\Debug\soil2-debug.pdb'; linking object as if no debug info
+  Youtube_Tutorial_Engine.vcxproj -> C:\Users\Derpy\Desktop\OpenGL Project\OpenGL-P1\Youtube_Tutorial_Engine\Debug\Youtube_Tutorial_Engine.exe

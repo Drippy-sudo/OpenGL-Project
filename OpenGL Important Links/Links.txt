@@ -1,0 +1,3 @@
+Gospel: https://learnopengl.com/
+
+Tutorial Series[1]:  https://www.youtube.com/watch?v=pKJ52fDq6Cw&list=PL6xSOsbVA1eYSZTKBxnoXYboy7wc4yg-Z
